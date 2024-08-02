@@ -1,0 +1,4 @@
+trait ApiRoot {
+    fn led_on();
+    fn led_off();
+}
